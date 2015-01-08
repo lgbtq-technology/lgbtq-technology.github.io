@@ -16,7 +16,7 @@ layout: page
 
 		<p>Harassment includes:</p>
 
-		<ul class="medium-block-grid-3 large-block-grid-4">
+		<ul>
 			<li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion</li>
 			<li>Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.</li>
 			<li>Deliberate misgendering or use of "dead" or rejected names</li>
