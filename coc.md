@@ -15,6 +15,7 @@ layout: page
 
 		<p>Some LGBTQ in Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.</p>
 
+		<div class="hr"></div>
 		<a name="harassment"></a>
 		<h2>Harassment includes:</h2>
 
@@ -28,11 +29,11 @@ layout: page
 					<li>Physical contact and simulated physical contact (eg, textual descriptions like &ldquo;<em>hug</em>&rdquo; or &ldquo;<em>backrub</em>&rdquo;) without consent or after a request to stop.</li>
 					<li>Threats of violence</li>
 					<li>Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm</li>
-					<li>Deliberate intimidation</li>
 				</ul>
 			</div>
 			<div class="medium-6 columns">
 				<ul>
+					<li>Deliberate intimidation</li>
 					<li>Stalking or following</li>
 					<li>Harassing photography or recording, including logging online activity for harassment purposes</li>
 					<li>Sustained disruption of discussion</li>
@@ -54,6 +55,7 @@ layout: page
 			<li>Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions </li>
 		</ul>
 
+		<div class="hr"></div>
 		<a name="reporting"></a>
 		<h2>Reporting</h2>
 
@@ -65,6 +67,7 @@ layout: page
 
 		<p>We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we&rsquo;ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of LGBTQ in Tech members or the general public. We will not name harassment victims without their affirmative consent.</p>
 
+		<div class="hr"></div>
 		<a name="consequences"></a>
 		<h2>Consequences</h2>
 

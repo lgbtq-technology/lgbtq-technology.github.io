@@ -16,18 +16,18 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
-		<p>Anybody who identifies as lebian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered "straight". Friends and allies: we appreciate your support, but this space is for us.</p>
+		<p>Anybody who identifies as lebian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered &ldquo;straight&rdquo;. Friends and allies: we appreciate your support, but this space is for us.</p>
 	</div>
 </div>
 <div class="row">
 	<div class="medium-6 columns">
 		<h2>Channels</h2>
 		<p>Slack chat spaces are divided into channels, and we have several dozen set up. There are two you&rsquo;ll be in by default:</p>
-		<ul>
+		<ul class="no-bullets">
 			<li><span class="label radius">#announcements:</span> occasional announcements</li>
 			<li><span class="label radius">#chat:</span> random chat</li>
 		</ul>
-		<p>All rooms are opt-in except announcements, which is why it is kept low-volume.</p>
+		<p>All rooms are opt-in except <span class="label radius">announcements</span>, which is why it is kept low-volume.</p>
 	</div>
 	<div class="medium-6 columns">
 		<h2>What are the rules?</h2>

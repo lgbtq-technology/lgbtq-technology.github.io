@@ -66,6 +66,23 @@ body {
   position: relative;
   cursor: auto; }
 
+.navigation {
+  position: relative;
+}
+
+.navigation:after {
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  left: 0;
+  right: 0;
+  top: 0;
+  display: block;
+  background-image: url('../img/border_rainbow.png');
+  background-repeat: repeat-x;
+  content: " ";
+}
+
 a:hover {
   cursor: pointer; }
 
@@ -75,6 +92,17 @@ img {
 
 img {
   -ms-interpolation-mode: bicubic; }
+
+.hr {
+  height: 1px;
+  max-width: 100%;
+  background: #ddd;
+}
+
+.no-bullets {
+  margin-left: 0;
+  list-style: none;
+}
 
 #map_canvas img,
 #map_canvas embed,
@@ -3673,6 +3701,7 @@ code {
   border-width: 1px;
   border-style: solid;
   border-color: #dfdfdf;
+  border-radius: 2px;
   padding: 0.125rem 0.3125rem 0.0625rem; }
 
 /* Lists */
