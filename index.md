@@ -25,16 +25,16 @@ layout: page
 		<p>Slack chat spaces are divided into channels, and we have several dozen set up. There are two you'll be in by default:</p>
 		<dl>
 			<div class="row">
-				<div class="small-6 columns">
+				<div class="small-4 columns">
 					<dt><b>#announcements</b>:</dt>
 				</div>
-				<div class="small-6 columns">
+				<div class="small-8 columns">
 					<dd>occasional announcements</dd>
 				</div>
-				<div class="small-6 columns">
+				<div class="small-4 columns">
 					<dt><b>#chat</b>:</dt>
 				</div>
-				<div class="small-6 columns">
+				<div class="small-8 columns">
 					<dd>random chat</dd>
 				</div>
 			</div>
