@@ -23,22 +23,10 @@ layout: page
 	<div class="medium-6 columns">
 		<h2>Channels</h2>
 		<p>Slack chat spaces are divided into channels, and we have several dozen set up. There are two you'll be in by default:</p>
-		<dl class="line-items">
-			<div class="row">
-				<div class="small-4 columns">
-					<dt><b>#announcements</b>:</dt>
-				</div>
-				<div class="small-8 columns">
-					<dd>occasional announcements</dd>
-				</div>
-				<div class="small-4 columns">
-					<dt><b>#chat</b>:</dt>
-				</div>
-				<div class="small-8 columns">
-					<dd>random chat</dd>
-				</div>
-			</div>
-		</dl>
+		<ul>
+			<li><span class="label radius">#announcements:</span> occasional announcements</li>
+			<li><span class="label radius">#chat:</span> random chat</li>
+		</ul>
 		<p>All rooms are opt-in except announcements, which is why it is kept low-volume.</p>
 	</div>
 	<div class="medium-6 columns">
