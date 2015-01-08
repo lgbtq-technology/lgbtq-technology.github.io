@@ -15,15 +15,6 @@ layout: page
 
 		<p>Some LGBTQ in Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.</p>
 
-		<div data-magellan-expedition="fixed">
-		  <dl class="sub-nav">
-		    <dd data-magellan-arrival="overview"><a href="#overview">Code of Conduct Overview</a></dd>
-		    <dd data-magellan-arrival="harassment"><a href="#harassment">Harassment</a></dd>
-		    <dd data-magellan-arrival="reporting"><a href="#reporting">Reporting</a></dd>
-		    <dd data-magellan-arrival="consequences"><a href="#consequences">Consequences</a></dd>
-		  </dl>
-		</div>
-
 		<a name="harassment"></a>
 		<h2>Harassment includes:</h2>
 
