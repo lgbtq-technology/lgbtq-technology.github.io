@@ -118,8 +118,11 @@ textarea {
 select {
   width: 100%; }
 
+.container {
+  padding: 1em;
+}
+
 .row {
-  padding: 0 1em;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
