@@ -15,6 +15,21 @@ layout: page
 		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing <a hre="mailto:lgbtqintech@seldo.com">lgbtqintech@seldo.com</a>.</p>
 	</div>
 	<div class="medium-6 columns">
+		<h2>Who's invited?</h2>
+		<p>Anybody who identifies as lebian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered "straight". Friends and allies: we appreciate your support, but this space is for us.</p>
+	</div>
+</div>
+<div class="row">
+	<div class="medium-6 columns">
+		<h2>Channels</h2>
+		<p>Slack chat spaces are divided into channels, and we have several dozen set up. There are two you'll be in by default:</p>
+		<ul>
+			<li><strong>announcements</strong>: occasional announcements</li>
+			<li><strong>chat</strong>: random chat</li>
+		</ul>
+		<p>All rooms are opt-in except announcements, which is why it is kept low-volume.</p>
+	</div>
+	<div class="medium-6 columns">
 		<h2>What are the rules?</h2>
 		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>. TLDR: be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
 	</div>
