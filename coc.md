@@ -7,7 +7,7 @@ layout: page
 	<div class="small-12 columns">
 		<a name="overview"></a>
 		<h1>Code of Conduct</h1>
-		<p>Note: "LGBTQ in Tech" in this document refers to the LGBTQ in Tech Slack organization at lgbt.slack.com. "The administrators" refers to the administrators on this organization, a list is available at the top of the <a href="https://lgbt.slack.com/team">Team Directory</a> (must be a member of the organization to view).</p>
+		<p><span class="success alert secondary">Note:</span> "LGBTQ in Tech" in this document refers to the LGBTQ in Tech Slack organization at lgbt.slack.com. "The administrators" refers to the administrators on this organization, a list is available at the top of the <a href="https://lgbt.slack.com/team">Team Directory</a> (must be a member of the organization to view).</p>
 
 		<p>LGBTQ in Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.</p>
 

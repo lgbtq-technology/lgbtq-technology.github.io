@@ -43,6 +43,6 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>What are the rules?</h2>
-		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>. TLDR: be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
+		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>. <span class="success alert secondary">TLDR:</span> be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
 	</div>
 </div>
