@@ -14,3 +14,12 @@ The Slack is invitation-only, but invitations are freely granted. You can reques
 ## What are the rules?
 
 We have a simple and uncontroversial [Code of Conduct](/coc.html). TLDR: be nice, and what happens inside generally stays there unless someone specifically says otherwise.
+
+## Channels
+
+Slack chat spaces are divided into channels, and we have several dozen set up. There are two you'll be in by default:
+
+* #announcements: occasional announcements
+* #chat: random chat
+
+All rooms are opt-in except announcements, which is why it is kept low-volume.
