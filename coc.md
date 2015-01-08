@@ -5,6 +5,15 @@ layout: page
 
 <div class="row">
 	<div class="small-12 columns">
+		<div data-magellan-expedition="fixed">
+		  <dl class="sub-nav">
+		    <dd data-magellan-arrival="overview"><a href="#overview">Code of Conduct Overview</a></dd>
+		    <dd data-magellan-arrival="harassment"><a href="#harassment">Harassment</a></dd>
+		    <dd data-magellan-arrival="reporting"><a href="#reporting">Reporting</a></dd>
+		    <dd data-magellan-arrival="consequences"><a href="#consequences">Consequences</a></dd>
+		  </dl>
+		</div>
+		<a name="overview"></a>
 		<h1>Code of Conduct</h1>
 		<p>Note: "LGBTQ in Tech" in this document refers to the LGBTQ in Tech Slack organization at lgbt.slack.com. "The administrators" refers to the administrators on this organization, a list is available at the top of the <a href="https://lgbt.slack.com/team">Team Directory</a> (must be a member of the organization to view).</p>
 
@@ -14,7 +23,8 @@ layout: page
 
 		<p>Some LGBTQ in Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.</p>
 
-		<h3>Harassment includes:</h3>
+		<a name="harassment"></a>
+		<h2>Harassment includes:</h2>
 
 		<div class="row">
 			<div class="medium-6 columns">
@@ -52,6 +62,7 @@ layout: page
 			<li>Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions </li>
 		</ul>
 
+		<a name="reporting"></a>
 		<h2>Reporting</h2>
 
 		<p>If you are being harassed by a member of LGBTQ in Tech, notice that someone else is being harassed, or have any other concerns, please contact the administrators by typing <code>/admin &lt;your message&gt;</code> in Slack, or contact an admin directly via DM. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.</p>
@@ -62,6 +73,7 @@ layout: page
 
 		<p>We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom weâ€™ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of LGBTQ in Tech members or the general public. We will not name harassment victims without their affirmative consent.</p>
 
+		<a name="consequences"></a>
 		<h2>Consequences</h2>
 
 		<p>Participants asked to stop any harassing behavior are expected to comply immediately.</p>
