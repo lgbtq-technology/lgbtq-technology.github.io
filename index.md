@@ -11,6 +11,10 @@ The [LGBTQ in Technology Slack](https://lgbt.slack.com) is a safe, confidential 
 
 The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing [lgbtqintech@seldo.com](mailto:lgbtqintech@seldo.com).
 
+## Who's invited?
+
+Anybody who identifies as lebian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered "straight". Friends and allies: we appreciate your support, but this space is for us.
+
 ## What are the rules?
 
 We have a simple and uncontroversial [Code of Conduct](/coc.html). TLDR: be nice, and what happens inside generally stays there unless someone specifically says otherwise.
