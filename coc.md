@@ -29,8 +29,6 @@ layout: page
 					<li>Deliberate intimidation</li>
 				</ul>
 			</div>
-		</div>
-		<div class="row">
 			<div class="medium-6 columns">
 				<ul>
 					<li>Stalking or following</li>
