@@ -3729,6 +3729,14 @@ dl dt {
 dl dd {
   margin-bottom: 0.75rem; }
 
+dl.line-items dt:nth-child(even), dl.line-items dd:nth-child(even) {
+  background: #eee;
+}
+dl.line-items dt:nth-child(odd), dl.line-items dd:nth-child(odd) {
+  background: #ddd;
+}
+
+
 /* Abbreviations */
 abbr,
 acronym {

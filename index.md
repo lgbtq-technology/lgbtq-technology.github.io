@@ -23,7 +23,7 @@ layout: page
 	<div class="medium-6 columns">
 		<h2>Channels</h2>
 		<p>Slack chat spaces are divided into channels, and we have several dozen set up. There are two you'll be in by default:</p>
-		<dl>
+		<dl class="line-items">
 			<div class="row">
 				<div class="small-4 columns">
 					<dt><b>#announcements</b>:</dt>
