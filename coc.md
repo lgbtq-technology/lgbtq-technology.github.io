@@ -1,3 +1,8 @@
+---
+title: Code of Conduct
+layout: page
+---
+
 # Code of Conduct
 
 Note: "LGBTQ in Tech" in this document refers to the LGBTQ in Tech Slack organization at lgbt.slack.com. "The administrators" refers to the administrators on this organization, a list is available at the top of the [Team Directory](https://lgbt.slack.com/team) (must be a member of the organization to view).
