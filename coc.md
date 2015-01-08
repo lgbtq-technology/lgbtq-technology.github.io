@@ -7,7 +7,7 @@ layout: page
 	<div class="small-12 columns">
 		<a name="overview"></a>
 		<h1>Code of Conduct</h1>
-		<p><span class="label radius">Note:</span> "LGBTQ in Tech" in this document refers to the LGBTQ in Tech Slack organization at lgbt.slack.com. "The administrators" refers to the administrators on this organization, a list is available at the top of the <a href="https://lgbt.slack.com/team">Team Directory</a> (must be a member of the organization to view).</p>
+		<p><span class="label radius">Note:</span> &ldquo;LGBTQ in Tech&rdquo; in this document refers to the LGBTQ in Tech Slack organization at lgbt.slack.com. &ldquo;The administrators&rdquo; refers to the administrators on this organization, a list is available at the top of the <a href="https://lgbt.slack.com/team">Team Directory</a> (must be a member of the organization to view).</p>
 
 		<p>LGBTQ in Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.</p>
 
@@ -22,10 +22,10 @@ layout: page
 			<div class="medium-6 columns">
 				<ul>
 					<li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion</li>
-					<li>Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.</li>
-					<li>Deliberate misgendering or use of "dead" or rejected names</li>
-					<li>Gratuitous or off-topic sexual images or behaviour  in spaces where they're not appropriate</li>
-					<li>Physical contact and simulated physical contact (eg, textual descriptions like "<em>hug</em>" or "<em>backrub</em>") without consent or after a request to stop.</li>
+					<li>Unwelcome comments regarding a person&rsquo;s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.</li>
+					<li>Deliberate misgendering or use of &ldquo;dead&rdquo; or rejected names</li>
+					<li>Gratuitous or off-topic sexual images or behaviour  in spaces where they&rsquo;re not appropriate</li>
+					<li>Physical contact and simulated physical contact (eg, textual descriptions like &ldquo;<em>hug</em>&rdquo; or &ldquo;<em>backrub</em>&rdquo;) without consent or after a request to stop.</li>
 					<li>Threats of violence</li>
 					<li>Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm</li>
 					<li>Deliberate intimidation</li>
@@ -39,18 +39,18 @@ layout: page
 					<li>Unwelcome sexual attention</li>
 					<li>Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others</li>
 					<li>Continued one-on-one communication after requests to cease</li>
-					<li>Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse</li>
+					<li>Deliberate &ldquo;outing&rdquo; of any aspect of a person&rsquo;s identity without their consent except as necessary to protect vulnerable people from intentional abuse</li>
 					<li>Publication of non-harassing private communication </li>
 				</ul>
 			</div>
 		</div>
 
-		<h3>LGBTQ in Technology prioritizes marginalized people's safety over privileged people's comfort. The administrators will not act on complaints regarding:</h3>
+		<h3>LGBTQ in Technology prioritizes marginalized people&rsquo;s safety over privileged people&rsquo;s comfort. The administrators will not act on complaints regarding:</h3>
 
 		<ul>
-			<li>"Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"</li>
-			<li>Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."</li>
-			<li>Communicating in a "tone" you don't find congenial</li>
+			<li>&ldquo;Reverse&rdquo;-isms, including &ldquo;reverse racism,&rdquo; &ldquo;reverse sexism,&rdquo; and &ldquo;cisphobia&rdquo;</li>
+			<li>Reasonable communication of boundaries, such as &ldquo;leave me alone,&rdquo; &ldquo;go away,&rdquo; or &ldquo;I&rsquo;m not discussing this with you.&rdquo;</li>
+			<li>Communicating in a &ldquo;tone&rdquo; you don&rsquo;t find congenial</li>
 			<li>Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions </li>
 		</ul>
 
@@ -63,7 +63,7 @@ layout: page
 
 		<p>In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.</p>
 
-		<p>We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom weâ€™ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of LGBTQ in Tech members or the general public. We will not name harassment victims without their affirmative consent.</p>
+		<p>We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we&rsquo;ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of LGBTQ in Tech members or the general public. We will not name harassment victims without their affirmative consent.</p>
 
 		<a name="consequences"></a>
 		<h2>Consequences</h2>
