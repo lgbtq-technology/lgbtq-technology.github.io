@@ -18,4 +18,4 @@ layout: page
 		<h2>What are the rules?</h2>
 		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>. TLDR: be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
 	</div>
-</div>0
+</div>
