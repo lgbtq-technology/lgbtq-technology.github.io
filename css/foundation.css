@@ -58,7 +58,6 @@ body {
   background: #fff;
   color: #222;
   padding: 0;
-  margin: 1em;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
@@ -119,6 +118,7 @@ select {
   width: 100%; }
 
 .row {
+  padding: 0 1em;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
