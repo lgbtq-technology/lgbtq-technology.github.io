@@ -3,9 +3,16 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{{ page.title }} - LGBTQ in Technology</title>
+		<link rel="stylesheet" href="css/foundation.css" />
+		<script src="js/vendor/modernizr.js"></script>
 	</head>
 
 	<body>
 		{{ content }}
+		<script src="js/vendor/jquery.js"></script>
+		<script src="js/foundation.min.js"></script>
+		<script>
+			$(document).foundation();
+		</script>
 	</body>
 </html>
