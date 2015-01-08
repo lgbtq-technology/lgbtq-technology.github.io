@@ -11,7 +11,7 @@ layout: page
 
 		<p>LGBTQ in Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.</p>
 
-		<p>This code of conduct applies to all LGBTQ in Tech spaces, including public channels, private channels and DMs, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.</p>
+		<p>This code of conduct applies to all LGBTQ in Tech spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.</p>
 
 		<p>Some LGBTQ in Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.</p>
 
@@ -25,7 +25,7 @@ layout: page
 					<li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion</li>
 					<li>Unwelcome comments regarding a person&rsquo;s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.</li>
 					<li>Deliberate misgendering or use of &ldquo;dead&rdquo; or rejected names</li>
-					<li>Gratuitous or off-topic sexual images or behaviour  in spaces where they&rsquo;re not appropriate</li>
+					<li>Gratuitous or off-topic sexual images or behaviour in spaces where they&rsquo;re not appropriate</li>
 					<li>Physical contact and simulated physical contact (eg, textual descriptions like &ldquo;<em>hug</em>&rdquo; or &ldquo;<em>backrub</em>&rdquo;) without consent or after a request to stop.</li>
 					<li>Threats of violence</li>
 					<li>Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm</li>

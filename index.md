@@ -16,13 +16,13 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
-		<p>Anybody who identifies as lesbian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered &ldquo;straight&rdquo;. Friends and allies: we appreciate your support, but this space is for us.</p>
+		<p>Anybody who identifies as lesbian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered &ldquo;straight&rdquo; and/or cis. Friends and allies: we appreciate your support, but this space is for us.</p>
 	</div>
 </div>
 <div class="row">
 	<div class="medium-6 columns">
 		<h2>Channels</h2>
-		<p>Slack chat spaces are divided into channels, and we have several dozen set up. There are two you&rsquo;ll be in by default:</p>
+		<p>Slack chat spaces are divided into rooms called &ldquo;channels&rdquo;, and we have several dozen set up. There are two you&rsquo;ll be in by default:</p>
 		<ul class="no-bullets">
 			<li><span class="label radius">#announcements:</span> occasional announcements</li>
 			<li><span class="label radius">#chat:</span> random chat</li>
@@ -31,6 +31,6 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>What are the rules?</h2>
-		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>. <span class="label radius">TLDR:</span> be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
+		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>.</p> <p><span class="label radius">TL;DR:</span> be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
 	</div>
 </div>
