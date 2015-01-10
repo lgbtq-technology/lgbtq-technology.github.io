@@ -15,7 +15,7 @@ layout: page
 		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing <a hre="mailto:lgbtqintech@seldo.com">lgbtqintech@seldo.com</a>.</p>
 
 		<h2>I want to bring a friend!</h2>
-		<p>Once you’re in the group, just message an admin with the email address you wish to invite, like so: <br> `/admin Would you please invite chunkylover53@aol.com? Thanks!`</p>
+		<p>Once you’re in the group, just message an admin with the email address you wish to invite, like so: <br> <pre>/admin Would you please invite chunkylover53@aol.com? Thanks!</pre></p>
 	</div>
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
