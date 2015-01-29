@@ -16,7 +16,7 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
-		<p>Anybody who identifies as lesbian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered &ldquo;straight&rdquo; and/or cis. Friends and allies: we appreciate your support, but this space is for us.</p>
+		<p>Anybody who identifies as lesbian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered both &ldquo;straight&rdquo; and cis. Friends and allies: we appreciate your support, but this space is for us.</p>
 	</div>
 </div>
 <div class="row">
