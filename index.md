@@ -6,7 +6,7 @@ layout: page
 <div class="row">
 	<div class="panel callout columns">
 		<h1>LGBTQ in Technology</h1>
-		<p>The <a href="https://lgbt.slack.com">LGBTQ in Technology Slack</a> is a safe, confidential space for LGBTQ people in technology to chat and support each other.</p>
+		<p>The <a href="https://lgbt.slack.com">LGBTQ in Technology Slack</a> is a space for LGBTQ people in technology to chat and support each other. We strive to keep it safe, positive, and confidential.</p>
 	</div>
 </div>
 <div class="row">
