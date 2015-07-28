@@ -13,6 +13,8 @@ layout: page
 
 		<p>This code of conduct applies to all LGBTQ in Tech spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.</p>
 
+		<p>Members under 18 are allowed, but are asked to stay out of channels with adult imagery.</p>
+
 		<p>Some LGBTQ in Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.</p>
 
 		<div class="hr"></div>
