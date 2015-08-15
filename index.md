@@ -37,6 +37,8 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>What are the rules?</h2>
-		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>.</p> <p><span class="label radius">TL;DR:</span> be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
+		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>.</p>
+		<p><span class="label radius">TL;DR:</span> be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
+		<p>If you're under 18, please let the admins know so we can keep an eye out for you.</p>
 	</div>
 </div>
