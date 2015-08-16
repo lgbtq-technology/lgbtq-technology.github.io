@@ -24,7 +24,7 @@ layout: page
 		<div class="row">
 			<div class="medium-6 columns">
 				<ul>
-					<li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, immigration status, religion, or other identity marker. This includes anti-Indigenous/Nativeness and anti-Blackness. Jokes that resemble such offensive comments are still considered offensive even if meant ‘ironically’.</li>
+					<li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, immigration status, religion, or other identity marker. This includes anti-Indigenous/Nativeness and anti-Blackness.</li>
 					<li>Unwelcome comments regarding a person&rsquo;s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.</li>
 					<li>Deliberate misgendering or use of &ldquo;dead&rdquo; or rejected names</li>
 					<li>Gratuitous or off-topic sexual images or behaviour in spaces where they&rsquo;re not appropriate</li>
@@ -46,6 +46,10 @@ layout: page
 					<li>Publication of non-harassing private communication </li>
 				</ul>
 			</div>
+		</div>
+
+		<div class="row">
+			<p>Jokes that resemble the above, such as ‘hipster racism’, still count as harassment even if meant satirically or ironically. See <a href='http://www.racialicious.com/2012/05/02/a-historical-guide-to-hipster-racism/'>this article</a> for background.</p>
 		</div>
 
 		<h3>LGBTQ in Technology prioritizes marginalized people&rsquo;s safety over privileged people&rsquo;s comfort. The administrators will not act on complaints regarding:</h3>
