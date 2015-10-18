@@ -25,7 +25,7 @@ layout: page
 			<div class="medium-6 columns">
 				<ul>
 					<li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, national origin, ethnic origin, nationality, immigration status, language, religious opinion, or other identity marker. This includes anti-Indigenous/Nativeness and anti-Blackness.</li>
-					<li>Unwelcome comments regarding a person&rsquo;s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.</li>
+					<li>Unwelcome comments regarding a person&rsquo;s lifestyle choices and practices, including those related to food, health, parenting, relationships, drugs, and employment.</li>
 					<li>Deliberate misgendering or use of &ldquo;dead&rdquo; or rejected names</li>
 					<li>Gratuitous or off-topic sexual images or behaviour in spaces where they&rsquo;re not appropriate</li>
 					<li>Physical contact and simulated physical contact (eg, textual descriptions like &ldquo;<em>hug</em>&rdquo; or &ldquo;<em>backrub</em>&rdquo;) without consent or after a request to stop.</li>
