@@ -12,7 +12,7 @@ layout: page
 <div class="row">
 	<div class="medium-6 columns">
 		<h2>How do I join?</h2>
-		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing <a href="mailto:lgbtqintech@seldo.com">lgbtqintech@seldo.com</a>.</p>
+		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing <a href="mailto:lgbtqintech@seldo.com">lgbtqintech@seldo.com</a>. If emailing, please let us know in your message how you heard about the Slack.</p>
 	</div>
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
