@@ -19,6 +19,19 @@ We encourage sexually explicit pictures to be posted as URLs, not uploaded as fi
 
 The #selfies channel is for selfies, and these are encouraged as we get to know each other, we can show love for ourselves and it's not narcissism.
 
+Subcultures
+--------
+
+There are a lot of trans folks, and several channels are exclusive to #trans folks.
+
+There is space specifically for #men. Some people need space away from men, so there are several #not-men channels.
+
+There is an active #bi group.
+
+There is an active #polyamory group.
+
+We have a #genderqueer group, as well as our #trans channels being explicitly genderqueer-friendly. We work to not assume binaries, as a great many of us are more complex than binaries can express.
+
 
 Free Slack Limits
 ---------
