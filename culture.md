@@ -17,7 +17,9 @@ Since people use Slack from work, we try to make it possible to participate whil
 
 It is common to join many channels, and conversations can span multiple channels. Our community is pretty cohesive, and we find the same people in many channels. This is different in IRC, where each channel forms its own community, ours are much more expansive. This changes how conversation flows, and is worth being aware of.
 
-We encourage sexually explicit pictures to be posted as URLs, not uploaded as files, as the 'all files' tab is visible by people regardless of their channel membership. Upsetting images should go further and some effort made to hide them from Slack's automatic link expansion.
+The only two channels joined by default are #chat, and #announcements. We keep #announcements low volume, without chat since it is the only channel that cannot be parted. We welcome people when they join #chat and are new to the slack.
+
+We want sexually explicit pictures to be posted as URLs, not uploaded as files, as the 'all files' tab is visible by people regardless of their channel membership. Upsetting images should go further and some effort made to hide them from Slack's automatic link expansion.
 
 The #selfies channel is for selfies, and these are encouraged as we get to know each other, we can show love for ourselves and it's not narcissism.
 
