@@ -17,7 +17,8 @@ It is common to join many channels, and conversations can span multiple channels
 
 We encourage sexually explicit pictures to be posted as URLs, not uploaded as files, as the 'all files' tab is visible by people regardless of their channel membership. Upsetting images should go further and some effort made to hide them from Slack's automatic link expansion.
 
-Selfies are encouraged. We get to know each other, we can show love for ourselves and it's not considered narcissism.
+The #selfies channel is for selfies, and these are encouraged as we get to know each other, we can show love for ourselves and it's not narcissism.
+
 
 Free Slack Limits
 ---------
