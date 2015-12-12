@@ -5,7 +5,7 @@ the lgbtq in technology slack is a big place. We do not all agree on anything, b
 
 We have active moderators, generally willing to intervene. If we see racist comments, even subtle, we intend to call them out: this is not an attack on the speaker, but a correction. These comments affect members of the slack, and this affirms that their presence is welcome. This is the same for transphobic or ciscentric comments, for similar reasons. This goes beyond explicitly offensive statements, and we encourage nuance and precision -- and being aware that the membership of the slack is in fact quite diverse, and we are speaking to people both like _and unlike_ ourselves.
 
-Also in an effort to keep people from being spoken over, there is a statistics bot that tracks the rough demographics of groups and reminds us that the proportion of people speaking.
+Also in an effort to keep people from being spoken over, there is a statistics bot that tracks the rough demographics of groups and reminds us that the proportion of people speaking. It distinguishes a binary -- whether one is a member of the dominant group or not, though it allows for complexity and unknowns as well, as its purpose is to track whether dominant groups are in fact dominating the space.
 
 There are a huge number of channels, over 250 at time of this writing. A great many are identity-exclusive: #trans is space exclusively for trans folks; #not-men is space exclusively for people who are not men; in general we seek to support and make space for groups that get talked over and ignored. There are channels for geographic areas, some large and some small.
 
