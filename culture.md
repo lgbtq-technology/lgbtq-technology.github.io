@@ -11,7 +11,7 @@ There are a huge number of channels, over 250 at time of this writing. A great m
 
 We support autonomy: most channels were simply created by someone who decided it was a good idea. We frown on doing things to people without their consent.
 
-Some channels have a `-unfiltered` counterpart; it's completely acceptable to suggest moving a conversation to the `-unfiltered` channel, and completely normal to leave that channel if upsetting conversation is there. This leaves identity channels free to keep their membership so people can find each other, without having to be in conversations they are not equipped for.
+Some channels have a `-unfiltered` counterpart; it's completely acceptable to suggest moving a conversation to the `-unfiltered` channel, and completely normal to leave that channel if upsetting conversation is there. This leaves identity channels free to keep their membership so people can find each other, without having to be in conversations they are not equipped for. We've worked on making sure it's acceptable to leave channels for any reason without it being implied that someone speaking is a problem. Hard topics happen, are encouraged, and space has to be made for them, but we've also tried to make sure that there is space for self care and that it's okay to leave a conversation.
 
 It is common to join many channels, and conversations can span multiple channels. Our community is pretty cohesive, and we find the same people in many channels. This is different in IRC, where each channel forms its own community, ours are much more expansive. This changes how conversation flows, and is worth being aware of.
 
