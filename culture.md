@@ -47,3 +47,12 @@ There is a limit of 10,000 messages of history. As our current rate puts us at a
 We prefer that files be linked, uploaded elsewhere, especially private pictures which count against the slack quota but cannot be seen or deleted by administrators. Uploaded files are deleted after a period of time, since the slack quota is reasonably small.
 
 We keep important URLs in channel topics, as they are not subject to the free slack limit of 10,000 messages of history.
+
+Differences from IRC culture
+----------------------------
+
+Slack does not exist in a vacuum, with no awareness of prior communication systems. In particular, IRC has influenced a lot of its development, but some notable differences cause differences in culture.
+
+The unit of cultural identity is the entire slack team, not a single channel; while we don't usually enter every channel, we tend to be consistent identities across them, and conversations can move fluidly between channels. They are not individual cultures to the same degree they are on IRC, so taking a conversation to a new channel is more an aid to filtering attention than it is taking over another cultural space.
+
+The move to mobile connectivity has also changed how chat communication works. Conversations can move between desktop and mobile devices fluidly, and attention can be managed by muting channels in addition to parting them. Notfications exist and history is available, so conversations can at once be more immediate and more asynchronous.
