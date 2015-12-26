@@ -40,5 +40,7 @@ layout: page
 		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>.</p>
 		<p><span class="label radius">TL;DR:</span> be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
 		<p>If you're under 18, please let the admins know so we can keep an eye out for you.</p>
+		<h2>Our Culture</h2>
+		<p>We've documented <a href="/culture.html">our culture</a> as best we can.</p>
 	</div>
 </div>
