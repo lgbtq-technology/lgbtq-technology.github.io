@@ -28,7 +28,7 @@ layout: page
 <div class="row">
 	<div class="medium-6 columns">
 		<h2>Channels</h2>
-		<p>Slack chat spaces are divided into rooms called &ldquo;channels&rdquo;, and we have several dozen set up. There are two you&rsquo;ll be in by default:</p>
+		<p>Slack chat spaces are divided into rooms called &ldquo;channels&rdquo;, and we have a few. There are two you&rsquo;ll be in by default:</p>
 		<ul class="no-bullets">
 			<li><span class="label radius">#announcements:</span> occasional announcements</li>
 			<li><span class="label radius">#chat:</span> random chat</li>
