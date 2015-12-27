@@ -1,3 +1,8 @@
+---
+title: Our Culture
+layout: page
+---
+
 Our Culture
 ===========
 
