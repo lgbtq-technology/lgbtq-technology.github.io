@@ -6,7 +6,7 @@ layout: page
 Our Culture
 ===========
 
-the lgbtq in technology slack is a big place. We do not all agree on anything, but there's a rough consensus around some things. The [code of conduct](coc.md) is uncontroversial at this point, so it's worth a read.
+the lgbtq in technology slack is a big place. We do not all agree on anything, but there's a rough consensus around some things. The [code of conduct](coc.html) is uncontroversial at this point, so it's worth a read.
 
 We have active moderators, generally willing to intervene. If we see racist comments, even subtle, we intend to call them out: this is not an attack on the speaker, but a correction. These comments affect members of the slack, and this affirms that their presence is welcome. This is the same for transphobic or ciscentric comments, for similar reasons. This goes beyond explicitly offensive statements, and we encourage nuance and precision -- and being aware that the membership of the slack is in fact quite diverse, and we are speaking to people both like _and unlike_ ourselves.
 
