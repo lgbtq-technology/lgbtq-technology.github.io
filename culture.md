@@ -45,7 +45,7 @@ We have a #genderqueer group, as well as our #trans channels being explicitly ge
 Free Slack Limits
 ---------
 
-Some cultural conventions have been created to work around limits in the free slack: integrations are locked down to administrators only. We discourage bots in general, other than statsbot. The emphemeral nature is a feature, not a bug.
+Some cultural conventions have been created to work around limits in the free slack: integrations are locked down to administrators only. We discourage bots in general, other than statsbot. The ephemeral nature is a feature, not a bug.
 
 There is a limit of 10,000 messages of history. As our current rate puts us at about 60,000 messages per week, that works out to be a bit more than a day of history. Use email or other out of band communication for private communication you want to keep.
 
