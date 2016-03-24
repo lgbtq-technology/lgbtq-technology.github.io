@@ -71,4 +71,4 @@ The move to mobile connectivity has also changed how chat communication works. C
 Final Notes
 ----------
 
-This is a living document. Culture changes over time. Please make PRs to keep it up to date.
+This is a living document. Culture changes over time. Please make [PRs](https://github.com/lgbtq-technology/lgbtq-technology.github.io) to keep it up to date.
