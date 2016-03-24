@@ -45,13 +45,19 @@ We have a #genderqueer group, as well as our #trans channels being explicitly ge
 Free Slack Limits
 ---------
 
-Some cultural conventions have been created to work around limits in the free slack: integrations are locked down to administrators only. We discourage bots in general, other than statsbot.
+Some cultural conventions have been created to work around limits in the free slack: integrations are locked down to administrators only. We discourage bots in general, other than statsbot. The emphemeral nature is a feature, not a bug.
 
 There is a limit of 10,000 messages of history. As our current rate puts us at about 60,000 messages per week, that works out to be a bit more than a day of history. Use email or other out of band communication for private communication you want to keep.
 
 We prefer that files be linked, uploaded elsewhere, especially private pictures which count against the slack quota but cannot be seen or deleted by administrators. Uploaded files are deleted after a period of time, since the slack quota is reasonably small.
 
 We keep important URLs in channel topics, as they are not subject to the free slack limit of 10,000 messages of history.
+
+A common suggestion is that we use an open source alternative to slack and host it ourselves, this would lead to a number of problems:
+
+* confidentiality is important for private channels, and the server admin would have access to everything
+* many of our users are members of other slack communities, and don't want to use yet another messaging service
+* it would cost us time, money, or favours
 
 Differences from IRC culture
 ----------------------------
