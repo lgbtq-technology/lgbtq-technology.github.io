@@ -9,11 +9,13 @@ layout: page
 		<h1>Code of Conduct</h1>
 		<p><span class="label radius">Note:</span> &ldquo;LGBTQ in Tech&rdquo; in this document refers to the LGBTQ in Tech Slack organization at lgbt.slack.com. &ldquo;The administrators&rdquo; refers to the administrators on this organization, a list is available at the top of the <a href="https://lgbt.slack.com/team">Team Directory</a> (must be a member of the organization to view).</p>
 
-		<p>LGBTQ in Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.</p>
+		<p>LGBTQ in Tech is dedicated to providing a harassment-free, confidential experience for everyone. We do not tolerate harassment of participants in any form.</p>
 
 		<p>This code of conduct applies to all LGBTQ in Tech spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.</p>
 
 		<p>Members under 18 are allowed, but are asked to stay out of channels with adult imagery.</p>
+
+		<p>Publicly posting conversation from or membership of LGBTQ in Tech is not allowed without explicit consent.</p>
 
 		<p>Some LGBTQ in Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.</p>
 
