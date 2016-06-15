@@ -26,6 +26,7 @@ layout: page
 				<ul>
 					<li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, national origin, ethnic origin, nationality, immigration status, language, religion or lack thereof, or other identity marker. This includes anti-Indigenous/Nativeness and anti-Blackness.</li>
 					<li>Unwelcome comments regarding a person&rsquo;s lifestyle choices and practices, including those related to food, health, parenting, relationships, drugs, and employment.</li>
+					<li><a href="/coc.html#discussions-of-labels">Questioning or challenging someone&rsquo;s stated self-identity or chosen labels</a>, even if they conflict with your own views. For example, discussions about bi vs pan, trans vs trans*, or whether grey/demisexual people are asexual, <b>even if well-intentioned</b></li>
 					<li>Deliberate misgendering or use of &ldquo;dead&rdquo; or rejected names</li>
 					<li>Gratuitous or off-topic sexual images or behaviour in spaces where they&rsquo;re not appropriate</li>
 					<li>Physical contact and simulated physical contact (eg, textual descriptions like &ldquo;<em>hug</em>&rdquo; or &ldquo;<em>backrub</em>&rdquo;) without consent or after a request to stop.</li>

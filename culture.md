@@ -41,6 +41,16 @@ There is an active #polyamory group.
 
 We have a #genderqueer group, as well as our #trans channels being explicitly genderqueer-friendly. We work to not assume binaries, as a great many of us are more complex than binaries can express.
 
+Discussion of Labels
+--------------------
+
+The rule in the Code of Conduct about avoiding discussions about identity labels may seem odd at first, but it comes with some history.
+
+There have been recurring discussions about some labels over the lifetime of the slack, particularly when it came to using "bi(sexual/romantic)" vs "pan(sexual/romantic)" as an identity label. Both of these labels may mean different things, and the discussion in the LGBTQ community involving them can be particularly contentious. Our experience with these discussions was that it was very easy to be accusative or dismissive of other (for example, implying or stating that bi-identifying individuals or their label are inherently against trans or non-binary people). These discussions were often more disruptive and stressful than fruitful, and it was clear that sometimes the larger context was intentionally or accidentally ignored (for example, the erasure that both bi and pan people so often face in the queer community).
+
+It is a policy of this community that people's own identities (and corresponding labels) must be respected as presented, and since there did not seem to be a clear way to prevent the cycle of challenging and relitigating the issue, a decision was made to ban that, and any such discussion -- this now includes any discussion related to trans vs trans\*, lesbian vs bi, 'gay' and 'queer' as generics, etc. Note that this only applies for self-identification. Forcibly applying a label that you think is fitting to someone who does not self-identify that way is still considered harassment as per our Code of Conduct.
+
+If you are unsure what a label means, feel free to research it externally or, if the person who used the label clearly consents to the conversation, ask them *in private* for a simple clarification, but understand that the CoC will most likely not favor you if the conversation goes awry. *Do not have these discussions in open channels*. Because of their inherent complexity, it is too easy to step on toes even if you don't mean to, in very serious, hurtful ways.
 
 Free Slack Limits
 ---------
