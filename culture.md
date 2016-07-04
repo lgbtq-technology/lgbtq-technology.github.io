@@ -35,7 +35,7 @@ There are a lot of trans folks, and several channels are exclusive to #trans fol
 
 There is space specifically for #men. Some people need space away from men, so there are several #not-men channels.
 
-There is an active #bi-and-pan group.
+There are various active channels related to non-mono(sexual/romantic) folks: #bi-and-pan acts as a general non-mono channel. There are also specific #bi, #pan, and #polysexuals channels. Remember to check out the [section about discussion of labels](http://lgbtq.technology/culture.html#discussion-of-labels) on this page for more about this.
 
 There is an active #polyamory group.
 
