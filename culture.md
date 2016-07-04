@@ -41,6 +41,10 @@ There is an active #polyamory group.
 
 We have a #genderqueer group, as well as our #trans channels being explicitly genderqueer-friendly. We work to not assume binaries, as a great many of us are more complex than binaries can express.
 
+We have a common convention for geographical area chats: `#loc-areaname` e.g. `#loc-sfbayarea`, `#loc-nyc`, `#loc-berlin`, and `#loc-australasia`, to name a few.
+
+Finally, we have a namespace for conferences and conventions: `#con-conname` e.g. `#con-e3`, `#con-wwdc`, `#con-anthrocon`, et al.
+
 Discussion of Labels
 --------------------
 
