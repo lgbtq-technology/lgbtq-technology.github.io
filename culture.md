@@ -35,7 +35,7 @@ There are a lot of trans folks, and several channels are exclusive to #trans fol
 
 There is space specifically for #men. Some people need space away from men, so there are several #not-men channels.
 
-There is an active #bi group.
+There is an active #bi-and-pan group.
 
 There is an active #polyamory group.
 
