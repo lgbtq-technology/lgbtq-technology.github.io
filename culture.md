@@ -12,7 +12,7 @@ We have active moderators, generally willing to intervene. If we see racist comm
 
 Also in an effort to keep people from being spoken over, there is a statistics bot that tracks the rough demographics of groups and reminds us that the proportion of people speaking. It distinguishes a binary -- whether one is a member of the dominant group or not, though it allows for complexity and unknowns as well, as its purpose is to track whether dominant groups are in fact dominating the space.
 
-There are a huge number of channels, over 250 at time of this writing. A great many are identity-exclusive: #trans is space exclusively for trans folks; #not-men is space exclusively for people who are not men; in general we seek to support and make space for groups that get talked over and ignored. There are channels for geographic areas, some large and some small.
+There are a huge number of channels, over 250 at time of this writing. A great many are identity-exclusive: `#trans` is space exclusively for trans folks; `#not-men` is space exclusively for people who are not men; in general we seek to support and make space for groups that get talked over and ignored. There are channels for geographic areas, some large and some small.
 
 We support autonomy: most channels were simply created by someone who decided it was a good idea. We frown on doing things to people without their consent.
 
@@ -22,24 +22,24 @@ Since people use Slack from work, we try to make it possible to participate whil
 
 It is common to join many channels, and conversations can span multiple channels. Our community is pretty cohesive, and we find the same people in many channels. This is different in IRC, where each channel forms its own community, ours are much more expansive. This changes how conversation flows, and is worth being aware of.
 
-The only two channels joined by default are #chat, and #announcements. We keep #announcements low volume, without chat since it is the only channel that cannot be parted. We welcome people when they join #chat and are new to the slack.
+The only two channels joined by default are `#chat`, and `#announcements`. We keep `#announcements` low volume, without chat since it is the only channel that cannot be parted. We welcome people when they join `#chat` and are new to the slack.
 
 We want sexually explicit pictures to be posted as URLs, not uploaded as files, as the 'all files' tab is visible by people regardless of their channel membership. Upsetting images should go further and some effort made to hide them from Slack's automatic link expansion.
 
-The #selfies channel is for selfies, and these are encouraged as we get to know each other, we can show love for ourselves and it's not narcissism.
+The `#selfies` channel is for selfies, and these are encouraged as we get to know each other, we can show love for ourselves and it's not narcissism.
 
 Subcultures
 --------
 
 There are a lot of trans folks, and several channels are exclusive to #trans folks.
 
-There is space specifically for #men. Some people need space away from men, so there are several #not-men channels.
+There is space specifically for `#men`. Some people need space away from men, so there are several `#not-men` channels.
 
-There are various active channels related to non-mono(sexual/romantic) folks: #bi-and-pan acts as a general non-mono channel. There are also specific #bi, #pan, and #polysexuals channels. Remember to check out the [section about discussion of labels](http://lgbtq.technology/culture.html#discussion-of-labels) on this page for more about this.
+There are various active channels related to non-mono(sexual/romantic) folks: `#bi-and-pan` acts as a general non-mono channel. There are also specific `#bi`, `#pan`, and `#polysexuals` channels. Remember to check out the [section about discussion of labels](http://lgbtq.technology/culture.html#discussion-of-labels) on this page for more about this.
 
-There is an active #polyamory group.
+There is an active `#polyamory` group.
 
-We have a #genderqueer group, as well as our #trans channels being explicitly genderqueer-friendly. We work to not assume binaries, as a great many of us are more complex than binaries can express.
+We have a `#genderqueer` group, as well as our #trans channels being explicitly genderqueer-friendly. We work to not assume binaries, as a great many of us are more complex than binaries can express.
 
 We have a common convention for geographical area chats: `#loc-areaname` e.g. `#loc-sfbayarea`, `#loc-nyc`, `#loc-berlin`, and `#loc-australasia`, to name a few.
 
