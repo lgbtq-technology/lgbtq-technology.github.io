@@ -41,6 +41,8 @@ There is an active `#polyamory` group.
 
 We have a `#genderqueer` group, as well as our #trans channels being explicitly genderqueer-friendly. We work to not assume binaries, as a great many of us are more complex than binaries can express.
 
+For managing elements of community culture that we can control or influence, as well as discussing the structure of the community and channel list, we have `#meta`. While `#meta` may include discussion of specific people or behaviours, it is as much a safe space as the rest of the slack, if not more so due to the type of conversation that happens there.
+
 We have a common convention for geographical area chats: `#loc-areaname` e.g. `#loc-sfbayarea`, `#loc-nyc`, `#loc-berlin`, and `#loc-australasia`, to name a few.
 
 Finally, we have a namespace for conferences and conventions: `#con-conname` e.g. `#con-e3`, `#con-wwdc`, `#con-anthrocon`, et al.
