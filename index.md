@@ -12,7 +12,20 @@ layout: page
 <div class="row">
 	<div class="medium-6 columns">
 		<h2>How do I join?</h2>
-		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by emailing <a href="mailto:lgbtqintech@seldo.com">lgbtqintech@seldo.com</a>. If emailing, please let us know in your message how you heard about the Slack.</p>
+		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by filling out this form: </p>
+		<form action="http://api.wealljs.org/signup" method="POST">
+			<label><span>Name: </span><input name="name" required type="text" class="input-field"></label>
+			<label><span>Email: </span><input name="email" required type="email" class="input-field"></label>
+			<label><span>Twitter (optional): </span><input name="twitter" type="text" class="input-field"></label>
+			<label><span>GitHub (optional): </span><input name="github" type="text" class="input-field"></label>
+			<label><span>About You</span></label>
+			<textarea name="about" placeholder="Tell us a bit about yourself! Anything or nothing is fine!" class="textarea-field"></textarea>
+			<label><span>&nbsp;</span><input type="checkbox" name="coc" required  class="input-field"> I agree to the <a href="/coc.html">Code of Conduct</a> and <a href="/enforcement.html">Enforcement Policy</a>
+			</label>
+			<input type="hidden" name="redirect_uri" value="http://lgbtq.technology/postsignup.html">
+			<input type="hidden" name="team_id" value="T0383959N">
+			<label><span>&nbsp;</span><button type="submit">Sign Up</button></label>
+		</form>
 	</div>
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
