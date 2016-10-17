@@ -20,8 +20,7 @@ layout: page
 			<label><span>GitHub (optional): </span><input name="github" type="text" class="input-field"></label>
 			<label><span>About You</span></label>
 			<textarea name="about" placeholder="Tell us a bit about yourself! Anything or nothing is fine!" class="textarea-field"></textarea>
-			<label><span>&nbsp;</span><input type="checkbox" name="coc" required  class="input-field"> I agree to the <a href="/coc.html">Code of Conduct</a> and <a href="/enforcement.html">Enforcement Policy</a>
-			</label>
+			<label><span>&nbsp;</span><input type="checkbox" name="coc" required  class="input-field"> I agree to the <a href="/coc.html">Code of Conduct</a></label>
 			<input type="hidden" name="redirect_uri" value="http://lgbtq.technology/postsignup.html">
 			<input type="hidden" name="team_id" value="T0383959N">
 			<label><span>&nbsp;</span><button type="submit">Sign Up</button></label>
