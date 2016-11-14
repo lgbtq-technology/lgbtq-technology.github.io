@@ -32,7 +32,7 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>I want to bring a friend!</h2>
-		<p>Once you’re in the group, just message an admin with the email address you wish to invite, like so: <code>/admin Would you invite [[friend&rsquo;s email here]]?</code></p>
+		<p>Please do!  Ask your friend to read the Code of Conduct and fill out the form.</p>
 	</div>
 	<div class="medium-6 columns">
 		<h2>Channels</h2>
