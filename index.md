@@ -12,7 +12,7 @@ layout: page
 <div class="row">
 	<div class="medium-6 columns">
 		<h2>How do I join?</h2>
-		<p>The Slack is invitation-only, but invitations are freely granted. You can request one from any existing member or by filling out this form: </p>
+		<p>The Slack is invitation-only, but invitations are freely granted. You can request one by filling out this form: </p>
 		<form action="https://api.wealljs.org/signup" method="POST">
 			<label><span>Name: </span><input name="name" required type="text" class="input-field"></label>
 			<label><span>Email: </span><input name="email" required type="email" class="input-field"></label>
