@@ -17,7 +17,7 @@ layout: page
 			<li>When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.</li>
 		</ul>
 
-		<p>The Admin team will prioritize the well-being and comfort of the recipients of the violation over the comfort of the violator. </p>
+		<p>The Admin team will prioritize the well-being and comfort of those affected negatively by the violation over the comfort of the violator. </p>
 
 		<a name="overview"></a>
 		<h1>Code of Conduct</h1>
