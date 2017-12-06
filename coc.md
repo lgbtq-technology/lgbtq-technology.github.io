@@ -43,7 +43,7 @@ layout: page
 					<li>No incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm</li>
 					<li>No deliberate &ldquo;outing&rdquo; of any aspect of a person&rsquo;s identity without their consent except as necessary to protect vulnerable people from intentional abuse</li>
 					<li>No publication of non-harassing private communication </li>
-					<li>No advocating for members to be banned, except in direct messages, or discussion with admins</li>
+					<li>No advocating for members to be banned, except in direct messages, or private discussion with admins</li>
 					<li>No unwelcome comments regarding a person&rsquo;s lifestyle choices and practices, including those related to food, health, parenting, relationships, drugs, and employment.</li>
 					<li>No gratuitous or off-topic sexual images or behaviour in spaces where they&rsquo;re not appropriate</li>
 					<li>No offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, national origin, ethnic origin, nationality, immigration status, language, religion or lack thereof, or other identity marker. This includes anti-Indigenous/Nativeness and anti-Blackness.</li>
