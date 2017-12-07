@@ -5,13 +5,27 @@ layout: page
 
 <div class="row">
 	<div class="small-12 columns">
+		<a name="reporting"></a>
+		<h1>When Something Happens</h1>
+		<p>If you see a Code of Conduct violation, follow these steps:</p>
+
+		<ul>
+			<li>Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s).</li>
+			<li> That person should immediately stop the behavior and correct the issue.</li>
+			<li>If this doesn’t happen, or if you’re uncomfortable speaking up, contact admins.</li>
+			<li>As soon as available, an admin will join, identify themselves, and take further action (see below), starting with a warning, then temporary deactivation, then long-term deactivation.</li>
+			<li>When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.</li>
+		</ul>
+
+		<p>The Admin team will prioritize the well-being and comfort of those affected negatively by the violation over the comfort of the violator. </p>
+
 		<a name="overview"></a>
 		<h1>Code of Conduct</h1>
 		<p><span class="label radius">Note:</span> &ldquo;LGBTQ in Tech&rdquo; in this document refers to the LGBTQ in Tech Slack organization at lgbt.slack.com. &ldquo;The administrators&rdquo; refers to the administrators on this organization, a list is available at the top of the <a href="https://lgbt.slack.com/team">Team Directory</a> (must be a member of the organization to view).</p>
 
 		<p>LGBTQ in Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.</p>
 
-		<p>This code of conduct applies to all LGBTQ in Tech spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.</p>
+		<p>This code of conduct applies to all LGBTQ in Tech spaces, including public channels, private channels and direct messages, both online and off.</p>
 
 		<p>Members under 18 are allowed, but are asked to stay out of channels with adult imagery.</p>
 
