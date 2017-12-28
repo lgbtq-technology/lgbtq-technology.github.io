@@ -52,6 +52,6 @@ layout: page
 		<p>If you're under 18, please let the admins know so we can keep an eye out for you.</p>
 		<h2>Our Culture</h2>
 		<p>We've documented <a href="/culture.html">our culture</a> as best we can.</p>
-		<p>If you're a recruiter, <a href='recruiters.md'>please read this</a></p>
+		<p>If you're a recruiter, <a href='recruiters.html'>please read this</a></p>
 	</div>
 </div>
