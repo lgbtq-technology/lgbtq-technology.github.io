@@ -73,7 +73,7 @@ layout: page
 		</div>
 
 		<div class="row">
-			<p>Jokes that resemble the above, such as ‘hipster racism’ are still not allowed, even if meant satirically or ironically. See <a href='http://www.racialicious.com/2012/05/02/a-historical-guide-to-hipster-racism/'>this article</a> for background.</p>
+			<p>Jokes that resemble the above, such as ‘hipster racism’ are still not allowed, even if meant satirically or ironically. See <a href='https://web.archive.org/web/20120507221417/http://www.racialicious.com/2012/05/02/a-historical-guide-to-hipster-racism/'>this article</a> for background.</p>
 		</div>
 
 		<h3>LGBTQ in Technology prioritizes marginalized people&rsquo;s safety over privileged people&rsquo;s comfort. The administrators will not act on complaints regarding:</h3>
