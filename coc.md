@@ -40,6 +40,7 @@ layout: page
 				<ul>
 					<li>No <a href='#harassment'>harassment</a>.</li>
 					<li>No <a href="/culture.html#discussion-of-labels">questioning or challenging someone&rsquo;s stated self-identity or chosen labels</a>, even if they conflict with your own views. For example, discussions about bi vs pan, trans vs trans*, or whether grey/demisexual people are asexual, <b>even if well-intentioned</b></li>
+					<li>No making general statements about groups you do not belong to.</li>
 					<li>No incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm</li>
 					<li>No deliberate &ldquo;outing&rdquo; of any aspect of a person&rsquo;s identity without their consent except as necessary to protect vulnerable people from intentional abuse</li>
 					<li>No publication of non-harassing private communication </li>
