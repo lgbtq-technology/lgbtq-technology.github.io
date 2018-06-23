@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-description: We take our member's conduct seriously. By following these rules, we can build a better, kinder, more welcoming community.
+description: We take our conduct seriously. By following these rules, we can build a better, kinder, more welcoming community.
 layout: page
 ---
 
