@@ -1,5 +1,5 @@
 ---
-title: For Recruiters
+title: A Note For Recruiters
 layout: page
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: LGBTQ in Technology
+title: Welcome
 layout: page
 ---
 
