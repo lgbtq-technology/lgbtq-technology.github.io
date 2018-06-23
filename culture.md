@@ -1,5 +1,6 @@
 ---
 title: Our Culture
+description: This slack has a distinct culture, and we've written down some of the things that surprise people about this space.
 layout: page
 ---
 
