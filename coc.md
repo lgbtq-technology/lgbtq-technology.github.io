@@ -5,45 +5,76 @@ layout: page
 
 <div class="row">
 	<div class="small-12 columns">
+		<a name="reporting"></a>
+		<h1>When Something Happens</h1>
+		<p>If you see a Code of Conduct violation, follow these steps:</p>
+
+		<ul>
+			<li>Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s).</li>
+			<li> That person should immediately stop the behavior and correct the issue.</li>
+			<li>If this doesn’t happen, or if you’re uncomfortable speaking up, contact admins.</li>
+			<li>As soon as available, an admin will join, identify themselves, and take further action (see below), starting with a warning, then temporary deactivation, then long-term deactivation.</li>
+			<li>When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.</li>
+		</ul>
+
+		<p>The Admin team will prioritize the well-being and comfort of those affected negatively by the violation over the comfort of the violator. </p>
+
 		<a name="overview"></a>
 		<h1>Code of Conduct</h1>
 		<p><span class="label radius">Note:</span> &ldquo;LGBTQ in Tech&rdquo; in this document refers to the LGBTQ in Tech Slack organization at lgbt.slack.com. &ldquo;The administrators&rdquo; refers to the administrators on this organization, a list is available at the top of the <a href="https://lgbt.slack.com/team">Team Directory</a> (must be a member of the organization to view).</p>
 
 		<p>LGBTQ in Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.</p>
 
-		<p>This code of conduct applies to all LGBTQ in Tech spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.</p>
+		<p>This code of conduct applies to all LGBTQ in Tech spaces, including public channels, private channels and direct messages, both online and off.</p>
+
+		<p>Members under 18 are allowed, but are asked to stay out of channels with adult imagery.</p>
 
 		<p>Some LGBTQ in Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.</p>
 
 		<div class="hr"></div>
+
+		<a name="conduct"></a>
+		<h2>Conduct</h2>
+		<div class="row">
+			<div class="medium-12 columns">
+				<ul>
+					<li>No <a href='#harassment'>harassment</a>.</li>
+					<li>No <a href="/culture.html#discussion-of-labels">questioning or challenging someone&rsquo;s stated self-identity or chosen labels</a>, even if they conflict with your own views. For example, discussions about bi vs pan, trans vs trans*, or whether grey/demisexual people are asexual, <b>even if well-intentioned</b></li>
+					<li>No incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm</li>
+					<li>No deliberate &ldquo;outing&rdquo; of any aspect of a person&rsquo;s identity without their consent except as necessary to protect vulnerable people from intentional abuse</li>
+					<li>No publication of non-harassing private communication </li>
+					<li>No advocating for members to be banned, except in direct messages, or private discussion with admins</li>
+					<li>No unwelcome comments regarding a person&rsquo;s lifestyle choices and practices, including those related to food, health, parenting, relationships, drugs, and employment.</li>
+					<li>No gratuitous or off-topic sexual images or behaviour in spaces where they&rsquo;re not appropriate</li>
+					<li>No offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, national origin, ethnic origin, nationality, immigration status, language, religion or lack thereof, or other identity marker. This includes anti-Indigenous/Nativeness and anti-Blackness.</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="hr"></div>
+
 		<a name="harassment"></a>
 		<h2>Harassment includes:</h2>
 
 		<div class="row">
-			<div class="medium-6 columns">
+			<div class="medium-12 columns">
 				<ul>
-					<li>Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion</li>
-					<li>Unwelcome comments regarding a person&rsquo;s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.</li>
 					<li>Deliberate misgendering or use of &ldquo;dead&rdquo; or rejected names</li>
-					<li>Gratuitous or off-topic sexual images or behaviour in spaces where they&rsquo;re not appropriate</li>
 					<li>Physical contact and simulated physical contact (eg, textual descriptions like &ldquo;<em>hug</em>&rdquo; or &ldquo;<em>backrub</em>&rdquo;) without consent or after a request to stop.</li>
 					<li>Threats of violence</li>
-					<li>Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm</li>
-				</ul>
-			</div>
-			<div class="medium-6 columns">
-				<ul>
 					<li>Deliberate intimidation</li>
 					<li>Stalking or following</li>
-					<li>Harassing photography or recording, including logging online activity for harassment purposes</li>
+					<li>Unwanted photography or recording, including logging online activity for harassment purposes</li>
 					<li>Sustained disruption of discussion</li>
 					<li>Unwelcome sexual attention</li>
 					<li>Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others</li>
 					<li>Continued one-on-one communication after requests to cease</li>
-					<li>Deliberate &ldquo;outing&rdquo; of any aspect of a person&rsquo;s identity without their consent except as necessary to protect vulnerable people from intentional abuse</li>
-					<li>Publication of non-harassing private communication </li>
 				</ul>
 			</div>
+		</div>
+
+		<div class="row">
+			<p>Jokes that resemble the above, such as ‘hipster racism’ are still not allowed, even if meant satirically or ironically. See <a href='http://www.racialicious.com/2012/05/02/a-historical-guide-to-hipster-racism/'>this article</a> for background.</p>
 		</div>
 
 		<h3>LGBTQ in Technology prioritizes marginalized people&rsquo;s safety over privileged people&rsquo;s comfort. The administrators will not act on complaints regarding:</h3>

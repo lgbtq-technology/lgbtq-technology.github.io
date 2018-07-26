@@ -1,0 +1,10 @@
+.footer-container {
+	background-color: #008CBA;
+	color: rgb(128,128,128);
+	color: rgba(255, 255, 255, .5);
+	padding: 1em;
+	font-size: 12px;
+}
+	.footer-container a {
+		color: #fff;
+	}
