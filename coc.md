@@ -87,6 +87,8 @@ layout: page
 			<li>Communicating in a &ldquo;tone&rdquo; you don&rsquo;t find congenial</li>
 			<li>Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions </li>
 		</ul>
+		
+		<div> The examples listed above are not against the Code of Conduct. </div>
 
 		<div class="hr"></div>
 		<a name="reporting"></a>
