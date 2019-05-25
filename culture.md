@@ -13,8 +13,6 @@ We have active moderators, generally willing to intervene. If we see racist comm
 
 We have a lot of members at this point, and requesting something or soliciting all of them is a request for a lot of people's time and attention.  Because of this, it's recommended that you ask the moderators before you post your survey, study,  advertisement, job posting (other than in #jobs), or even in the places where approximately everyone is (#chat specifically).   We especially want to make sure that information doesn't get misused and members who are particularly vulnerable understand when they are identifying themselves.
 
-Also in an effort to keep people from being spoken over, there is a statistics bot that tracks the rough demographics of groups and reminds us that the proportion of people speaking. It distinguishes a binary -- whether one is a member of the dominant group or not, though it allows for complexity and unknowns as well, as its purpose is to track whether dominant groups are in fact dominating the space.
-
 There are a huge number of channels, over 250 at time of this writing. A great many are identity-exclusive: `#trans` is space exclusively for trans folks; `#not-men` is space exclusively for people who are not men; in general we seek to support and make space for groups that get talked over and ignored. There are channels for geographic areas, some large and some small.
 
 We support autonomy: most channels were simply created by someone who decided it was a good idea. We frown on doing things to people without their consent.
@@ -63,7 +61,7 @@ If you are unsure what a label means, feel free to research it externally or, if
 Free Slack Limits
 ---------
 
-Some cultural conventions have been created to work around limits in the free slack: integrations are locked down to administrators only. We discourage bots in general, other than statsbot. The ephemeral nature is a feature, not a bug.
+Some cultural conventions have been created to work around limits in the free slack: integrations are locked down to administrators only. We discourage bots in general. The ephemeral nature is a feature, not a bug.
 
 There is a limit of 10,000 messages of history. As our current rate puts us at about 60,000 messages per week, that works out to be a bit more than a day of history. Use email or other out of band communication for private communication you want to keep.
 
