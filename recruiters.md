@@ -18,7 +18,7 @@ Make use of the #jobs channel and spreadsheet pinned there. People seeking jobs 
 
 Advertising unpaid internships is absolutely not permitted; if you are hiring for an intern, you must pay them a living wage.
 
-Please be aware of biases in hiring and do your best to help counter them. Extend your reach past the easy to hire white, male, cisgender senior engineers.
+Please be aware of biases in hiring and do your best to help counter them. Extend your reach past the easy-to-hire white, male, cisgender senior engineers.
 
 We're glad you're here, and if you treat this community with respect, you can be making a mutually beneficial difference for both your recruitment and our community.
 
