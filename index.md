@@ -36,9 +36,10 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>Channels</h2>
-		<p>Slack chat spaces are divided into rooms called &ldquo;channels&rdquo;, and we have a few. There are two you&rsquo;ll be in by default:</p>
+		<p>Slack chat spaces are divided into rooms called &ldquo;channels&rdquo;, and we have a few. There are three you&rsquo;ll be in by default:</p>
 		<ul class="no-bullets">
 			<li><span class="label radius">#announcements:</span> occasional announcements</li>
+			<li><span class="label radius">#introductions:</span> welcoming new members</li>
 			<li><span class="label radius">#chat:</span> random chat</li>
 		</ul>
 		<p>All rooms are opt-in except <span class="label radius">announcements</span>, which is why it is kept low-volume.</p>
