@@ -18,8 +18,8 @@ layout: page
 			<label><span>Email: </span><input name="email" required type="email" class="input-field"></label>
 			<label><span>Twitter (optional): </span><input name="twitter" type="text" class="input-field"></label>
 			<label><span>GitHub (optional): </span><input name="github" type="text" class="input-field"></label>
-			<label><span>About You</span></label>
-			<textarea name="about" placeholder="Tell us a bit about yourself! Anything or nothing is fine!" class="textarea-field"></textarea>
+			<label><span>About You:</span></label>
+			<textarea required name="about" placeholder="Tell us a bit about yourself!" class="textarea-field"></textarea>
 			<label><span>&nbsp;</span><input type="checkbox" name="coc" required  class="input-field"> I agree to the <a href="/coc.html">Code of Conduct</a></label>
 			<input type="hidden" name="redirect_uri" value="http://lgbtq.technology/postsignup.html">
 			<input type="hidden" name="team_id" value="T0383959N">
