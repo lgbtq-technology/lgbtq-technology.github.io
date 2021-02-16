@@ -28,7 +28,7 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
-		<p>Anybody who identifies as lesbian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered both &ldquo;straight&rdquo; and cis. Friends and allies: we appreciate your support, but this space is for us.</p>
+		<p>Anybody who identifies as lesbian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered both &ldquo;straight&rdquo; and cis. Friends and allies: we appreciate your support, but this space is for us. <b>Recruiters</b> please take note of <a href="/recruiters.html">this policy</a>.</p>
 	</div>
 	<div class="medium-6 columns">
 		<h2>I want to bring a friend!</h2>
@@ -36,13 +36,13 @@ layout: page
 	</div>
 	<div class="medium-6 columns">
 		<h2>Channels</h2>
-		<p>Slack chat spaces are divided into rooms called &ldquo;channels&rdquo;, and we have a few. There are three you&rsquo;ll be in by default:</p>
+		<p>Slack chat spaces are divided into rooms called &ldquo;channels&rdquo;, and we have very many. There are three you&rsquo;ll be in by default:</p>
 		<ul class="no-bullets">
-			<li><span class="label radius">#announcements:</span> occasional announcements</li>
+			<li><span class="label radius">#announcements:</span> occasional announcements, administrator broadcast-only</li>
 			<li><span class="label radius">#introductions:</span> welcoming new members</li>
 			<li><span class="label radius">#chat:</span> random chat</li>
 		</ul>
-		<p>All rooms are opt-in except <span class="label radius">announcements</span>, which is why it is kept low-volume.</p>
+		<p>...and literally hundreds more on various topics. <span class="label radius">#-toomanychannels</span> is a good place to ask if a channel for a topic exists. All rooms are opt-in except <span class="label radius">announcements</span>, which is why it is kept low-volume.</p>
 	</div>
 </div>
 <div class="row">
