@@ -29,7 +29,7 @@ The only channels joined by default are `#chat`, `#introductions`, and `#announc
 The `#selfies` channel is for selfies, and these are encouraged as we get to know each other, we can show love for ourselves and it's not narcissism.
 
 Subcultures
---------
+-----------
 
 There are a lot of trans folks, and several channels are exclusive to #trans folks.
 
@@ -59,7 +59,7 @@ It is a policy of this community that people's own identities (and corresponding
 If you are unsure what a label means, feel free to research it externally or, if the person who used the label clearly consents to the conversation, ask them *in private* for a simple clarification, but understand that the CoC will most likely not favor you if the conversation goes awry. *Do not have these discussions in open channels*. Because of their inherent complexity, it is too easy to step on toes even if you don't mean to, in very serious, hurtful ways.
 
 Free Slack Limits
----------
+-----------------
 
 Some cultural conventions have been created to work around limits in the free slack: integrations are locked down to administrators only. We discourage bots in general. The ephemeral nature is a feature, not a bug.
 
@@ -75,6 +75,50 @@ A common suggestion is that we use an open source alternative to slack and host 
 * many of our users are members of other slack communities, and don't want to use yet another messaging service
 * it would cost us time, money, or favours
 
+Alternatives to Slack
+---------------------
+
+Various alternatives to Slack have been periodically discussed.
+
+General problem: splitting the community.
+
+### Discord
+
+https://discord.com/
+
+SaaS.
+
+Admin overhead for managing channel membership. (Some large Discords use bots and roles to manage members' entry into all but a few announcement/rules channels. This requires admin work to plan and set up.)
+
+Messages don't expire.
+
+No threaded replies. This community encourages threading for spoilers, sensitive content, etc., and this would be a mess in Discord.
+
+### Matrix
+
+https://www.matrix.org/
+
+Open source, self-hosted.
+### Mattermost
+
+https://mattermost.org/
+
+Open source, self-hosted.
+
+### Rocket
+
+https://rocket.chat/
+
+Open source, self-hosted or SaaS.
+
+### Zulip
+
+https://zulip.com/
+
+Open source, self-hosted or SaaS.
+
+> I like it for topic-based comms; it would be a really hard transition though (it's complicated and not totally analogous to slack/discord)
+
 Differences from IRC culture
 ----------------------------
 
@@ -85,6 +129,6 @@ The unit of cultural identity is the entire slack team, not a single channel; wh
 The move to mobile connectivity has also changed how chat communication works. Conversations can move between desktop and mobile devices fluidly, and attention can be managed by muting channels in addition to parting them. Notfications exist and history is available, so conversations can at once be more immediate and more asynchronous.
 
 Final Notes
-----------
+-----------
 
 This is a living document. Culture changes over time. Please make [PRs](https://github.com/lgbtq-technology/lgbtq-technology.github.io) to keep it up to date.
