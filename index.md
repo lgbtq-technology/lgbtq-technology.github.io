@@ -10,25 +10,12 @@ layout: page
 	</div>
 </div>
 <div class="row">
-	<div class="medium-6 columns">
-		<h2>How do I join?</h2>
-		<p>Fill out this form. A moderator will send you an invitation.</p>
-		<form action="https://api.wealljs.org/signup" method="POST">
-			<label><span>Name: </span><input name="name" required type="text" class="input-field"></label>
-			<label><span>Email: </span><input name="email" required type="email" class="input-field"></label>
-			<label><span>Twitter (optional): </span><input name="twitter" type="text" class="input-field"></label>
-			<label><span>GitHub (optional): </span><input name="github" type="text" class="input-field"></label>
-			<label><span>About You:</span></label>
-			<textarea required name="about" placeholder="Tell us a bit about yourself!" class="textarea-field"></textarea>
-			<label><span>&nbsp;</span><input type="checkbox" name="coc" required  class="input-field"> I agree to the <a href="/coc.html">Code of Conduct</a></label>
-			<input type="hidden" name="redirect_uri" value="http://lgbtq.technology/postsignup.html">
-			<input type="hidden" name="team_id" value="T0383959N">
-			<label><span>&nbsp;</span><button type="submit">Sign Up</button></label>
-		</form>
-	</div>
+
 	<div class="medium-6 columns">
 		<h2>Who&rsquo;s invited?</h2>
-		<p>Anybody who identifies as lesbian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered both &ldquo;straight&rdquo; and cis. Friends and allies: we appreciate your support, but this space is for us. <b>Recruiters</b> please take note of <a href="/recruiters.html">this policy</a>.</p>
+		<p>Anybody who identifies as lesbian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered both &ldquo;straight&rdquo; and cis.</div>p>
+		<p><b>Friends and allies</div>b>: we appreciate your support, but this space is for us.</div>p>
+		<p><b>Recruiters</b>: please take note of <a href="/recruiters.html">this policy</a>.</p>
 	</div>
 	<div class="medium-6 columns">
 		<h2>I want to bring a friend!</h2>
@@ -44,6 +31,23 @@ layout: page
 		</ul>
 		<p>...and literally hundreds more on various topics. <span class="label radius">#-toomanychannels</span> is a good place to ask if a channel for a topic exists. All rooms are opt-in except <span class="label radius">announcements</span>, which is why it is kept low-volume.</p>
 	</div>
+
+	<div class="medium-6 columns">
+	<h2>How do I join?</h2>
+	<p>Fill out this form. A moderator will send you an invitation.</p>
+	<form action="https://api.wealljs.org/signup" method="POST">
+		<label><span>Name: </span><input name="name" required type="text" class="input-field"></label>
+		<label><span>Email: </span><input name="email" required type="email" class="input-field"></label>
+		<label><span>Twitter (optional): </span><input name="twitter" type="text" class="input-field"></label>
+		<label><span>GitHub (optional): </span><input name="github" type="text" class="input-field"></label>
+		<label><span>About You:</span></label>
+		<textarea required name="about" placeholder="Tell us a bit about yourself!" class="textarea-field"></textarea>
+		<label><span>&nbsp;</span><input type="checkbox" name="coc" required  class="input-field"> I agree to the <a href="/coc.html">Code of Conduct</a></label>
+		<input type="hidden" name="redirect_uri" value="http://lgbtq.technology/postsignup.html">
+		<input type="hidden" name="team_id" value="T0383959N">
+		<label><span>&nbsp;</span><button type="submit">Sign Up</button></label>
+	</form>
+</div>
 </div>
 <div class="row">
 	<div class="columns">
