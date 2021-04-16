@@ -18,10 +18,20 @@ layout: page
 		<p><b>Recruiters</b>: please take note of <a href="/recruiters.html">this policy</a>.</p>
 	</div>
 	<div class="medium-6 columns">
+		<h2>What are the rules?</h2>
+		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>.</p>
+		<p><span class="label radius">TL;DR:</span> be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
+		<p>If you're under 18, please let the admins know so we can keep an eye out for you.</p>
+		<h2>Our Culture</h2>
+		<p>We've documented <a href="/culture.html">our culture</a> as best we can.</p>
+		<p>If you're a recruiter, <a href='recruiters.html'>please read this</a></p>
+	</div>
+
+</div>
+<div class="row">
+        <div class="medium-6 columns">
 		<h2>I want to bring a friend!</h2>
 		<p>Please do!  Ask your friend to read the Code of Conduct and fill out the form.</p>
-	</div>
-	<div class="medium-6 columns">
 		<h2>Channels</h2>
 		<p>Slack chat spaces are divided into rooms called &ldquo;channels&rdquo;, and we have very many. There are three you&rsquo;ll be in by default:</p>
 		<ul class="no-bullets">
@@ -48,15 +58,4 @@ layout: page
 		<label><span>&nbsp;</span><button type="submit">Sign Up</button></label>
 	</form>
 </div>
-</div>
-<div class="row">
-	<div class="columns">
-		<h2>What are the rules?</h2>
-		<p>We have a simple and uncontroversial <a href="/coc.html">Code of Conduct</a>.</p>
-		<p><span class="label radius">TL;DR:</span> be nice, and what happens inside generally stays there unless someone specifically says otherwise.</p>
-		<p>If you're under 18, please let the admins know so we can keep an eye out for you.</p>
-		<h2>Our Culture</h2>
-		<p>We've documented <a href="/culture.html">our culture</a> as best we can.</p>
-		<p>If you're a recruiter, <a href='recruiters.html'>please read this</a></p>
-	</div>
 </div>
