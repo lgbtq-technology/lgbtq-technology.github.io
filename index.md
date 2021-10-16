@@ -41,7 +41,7 @@ layout: page
   </div>
   <div class="medium-6 columns">
     <h2>How do I join?</h2>
-    <p>Fill out this form. A moderator will send you an invitation.</p>
+    <p>Fill out this form. A moderator will send you an invitation. If you have any questions or are having trouble accessing the slack, you can <a href="/admins.html">contact an admin</a>.</p>
     <form action="https://api.wealljs.org/signup" method="POST">
       <label><span>Name: </span><input name="name" required type="text" class="input-field"></label>
       <label><span>Email: </span><input name="email" required type="email" class="input-field"></label>
