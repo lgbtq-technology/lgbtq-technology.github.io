@@ -83,7 +83,7 @@ Slack does not exist in a vacuum, with no awareness of prior communication syste
 
 The unit of cultural identity is the entire slack team, not a single channel; while we don't usually enter every channel, we tend to be consistent identities across them, and conversations can move fluidly between channels. They are not individual cultures to the same degree they are on IRC, so taking a conversation to a new channel is more an aid to filtering attention than it is taking over another cultural space.
 
-The move to mobile connectivity has also changed how chat communication works. Conversations can move between desktop and mobile devices fluidly, and attention can be managed by muting channels in addition to parting them. Notfications exist and history is available, so conversations can at once be more immediate and more asynchronous.
+The move to mobile connectivity has also changed how chat communication works. Conversations can move between desktop and mobile devices fluidly, and attention can be managed by muting channels in addition to parting them. Notifications exist and history is available, so conversations can at once be more immediate and more asynchronous.
 
 Final Notes
 ----------
