@@ -11,4 +11,5 @@ These admins are willing to be contacted about issues with the slack, or issues 
 * yar aka Yardena Cohen ([email](mailto:yardenack@gmail.com), [twitter](https://twitter.com/atyardena), [github](https://github.com/yardenac))
 * claudinec aka Claudine Chionh ([email](mailto:lgbtq@claudinec.net), [twitter](https://twitter.com/claudinec), [github](https://github.com/claudinec))
 * Saga aka Saga Söderback ([email](mailto:saga@iam.bi), [twitter](https://twitter.com/laerm), [github](https://github.com/laerm0))
+* Mo ([email](mailto:hello@signalshift.com), [twitter](https://twitter.com/signalshift), [github](https://github.com/signalshift))
 * 6 others who have not yet consented to being listed here
