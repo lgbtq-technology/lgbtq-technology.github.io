@@ -57,6 +57,8 @@ Some LGBTQ in Tech spaces may have additional rules in place, which will be made
 
 For a primer on how people with privilege are expected to conduct themselves within the community, see https://guidetoallyship.com/
 
+Recruiters and job ads must also follow [these rules](/recruiters.html).
+
 ## Reporting
 
 If you see a violation or have any other concerns, please contact the administrators by typing `/admin <your message>` in Slack, or contact an admin directly via DM. If the violator is on the team, they will recuse themselves from handling your incident and will be investigated further by the rest of the team. We will respond as promptly as we can.
