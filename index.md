@@ -12,7 +12,7 @@ layout: page
 <div class="row">
   <div class="medium-6 columns">
     <h2>Who&rsquo;s invited?</h2>
-    <p>Anybody who identifies as lesbian, gay, bisexual, trans, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered both &ldquo;straight&rdquo; and cis.</p>
+    <p>Anybody who identifies as lesbian, gay, bisexual, trans, non-binary, gender non-conforming, queer, and those questioning whether they fit into those or any of the many other sub-genres of people who are not generally considered both &ldquo;straight&rdquo; and cis.</p>
     <p><b>Friends and allies</b>: we appreciate your support, but this space is for us.</p>
     <p><b>Recruiters</b>: please take note of <a href="/recruiters.html">this policy</a>.</p>
   </div>
