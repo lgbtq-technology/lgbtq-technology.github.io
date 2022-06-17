@@ -37,7 +37,7 @@ layout: page
       <li><span class="label radius">#introductions:</span> welcoming new members</li>
       <li><span class="label radius">#chat:</span> random chat</li>
     </ul>
-    <p>...and literally hundreds more on various topics. <span class="label radius">#-toomanychannels</span> is a good place to ask if a channel for a topic exists. All rooms are opt-in except <span class="label radius">announcements</span>, which is why it is kept low-volume.</p>
+    <p>...and literally hundreds more on various topics. <span class="label radius">#-too-many-channels</span> is a good place to ask if a channel for a topic exists. All rooms are opt-in except <span class="label radius">announcements</span>, which is why it is kept low-volume.</p>
   </div>
   <div class="medium-6 columns">
     <h2>How do I join?</h2>
